@@ -8,15 +8,13 @@
 
 }
 
-
 body {
     background-color: hsl(212, 45%, 89%);
 }
 
-
 .container {
     background-color: white;
-    margin-top: 150px;
+    margin-top: 300px;
     margin-right: auto;
     margin-left: auto;
     border-radius: 12px;
@@ -24,7 +22,7 @@ body {
     width: 320px;
     text-align: center;
     align-items: center; 
-    
+
 }
 
 

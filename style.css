@@ -14,9 +14,10 @@ body {
 
 .container {
     background-color: white;
-    margin-top: 300px;
-    margin-right: auto;
-    margin-left: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
     border-radius: 12px;
     height: 480px;
     width: 320px;
